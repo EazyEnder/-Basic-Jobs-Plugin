@@ -1,0 +1,9 @@
+name: JobsPl
+version: 1.0
+author: EazyEnder
+main: fr.eazyender.jobspl.JobsPlMain
+commands:
+  jobs:
+    description: Commande pour acceder aux jobs.
+    permission: jobs.player
+    aliases: job
